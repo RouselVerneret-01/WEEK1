@@ -1,1 +1,5 @@
-
+mkdir Exercise1-1-GuitarShop
+# Move project files into that folder (or save directly there)
+git add .
+git commit -m "Exercise 1-1: Ran Guitar Shop app"
+git push -u origin "WEEK1"
